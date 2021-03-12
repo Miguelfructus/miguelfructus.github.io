@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8">
     <title>Proyect: WebPage</title>
-    <h1 id="#All about the Tic´s"</h1>
+    <h1 id="#All about the Tic´s">All About The Tic´s</h1>
     </head>
     <body>
     <p>What Are Tic´S?
