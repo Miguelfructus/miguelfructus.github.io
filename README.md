@@ -7,7 +7,7 @@
     <body>
     <p>What Are ICT´S?
       <ul>
-    <li>Information and Communication Technologies (ICT) are the set of resources, tools, equipment, computer programs, applications, networks and media; that allow the compilation, processing, storage, transmission of information such as: voice, data, text, video and images</li>
+        <li>Information and Communication Technologies <strong>(ICT)</strong> are the set of resources, tools, equipment, computer programs, applications, networks and media; that allow the compilation, processing, storage, transmission of information such as: voice, data, text, video and images</li>
     </ul>
     </p>
     <p2> Jump to sections:
