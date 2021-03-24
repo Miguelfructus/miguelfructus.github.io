@@ -15,7 +15,7 @@
       <ul>
        <li><a href="https://miguelfructus.github.io/digital-signature">Digital Signature</a></li>
        <li><a href="https://miguelfructus.github.io/internet-security">Internet Security</a></li>
-       <li><a href="#Accessibility Standars">Accessibility Standars</a></li>
+       <li><a href="https://miguelfructus.github.io/accessibility-standars">Accessibility Standars</a></li>
        <li><a href="#Object oriented programming vs Structured Programming">Object oriented programming vs Structured Programming</a></li>
       </ul>
     </p2>
