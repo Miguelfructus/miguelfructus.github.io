@@ -84,6 +84,7 @@
 			<td>Passive Attack is easy to prohibited in comparison to active attack</td>
 		  </tr>
 	</table>
+	
 	  <head><h2><u><strong>¿What is Malware?</head></h2></u></strong>
 	<h4 id="Malware">Malware</h4>
 	<p>Short for malicious software, is a blanket term for viruses, worms, trojans and other harmful computer programs hackers use to wreak destruction and gain access to sensitive information. As Microsoft puts it malware, is a catch-all term to refer to any software designed to cause damage to a single computer, server, or computer network. In other words, software is identified as malware based on its intended use, rather than a particular technique or technology used to build it</p>
