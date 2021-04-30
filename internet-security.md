@@ -86,7 +86,7 @@
 		  </tr>
 	</table>
 	<br></br>
-	  <head><h2><u><strong>¿What is Malware?</head></h2></u></strong>
+	  <head><h2><u><strong>¿What is Malware?</strong></head></u></h2>
 	<h4 id="Malware">Malware</h4>
 	<p>Short for malicious software, is a blanket term for viruses, worms, trojans and other harmful computer programs hackers use to wreak destruction and gain access to sensitive information. As Microsoft puts it malware, is a catch-all term to refer to any software designed to cause damage to a single computer, server, or computer network. In other words, software is identified as malware based on its intended use, rather than a particular technique or technology used to build it</p>
 	<head><h3><u>Types Of Malware</head></h3></u>
@@ -103,31 +103,31 @@
 	<head><h2><u><strong>¿What is Hardware?</head></h2></u></strong>
 	<p><strong>Hardware</strong> is a physical component of a computer system containing a circuit board, ICs, or other electronics. A perfect example of hardware is the screen on which you are viewing this page. Whether it be a monitor, tablet, or smartphone, it is hardware.</p>
 	<p>Without any hardware, your computer would not exist, and software could not be used.</p>
-	<head><h2><u><strong>¿What is Software?</head></h2></u></strong>
+	<head><h2><u><strong>¿What is Software?</head></u></strong></h2>
 	<p><strong>Software,</strong> instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. The term was coined to differentiate these instructions from hardware,the physical components of a computer system. A set of instructions that directs a computer’s hardware to perform a task is called a program, or software program. 
 	<p>The two main types of software are system software and application software.</p>
 
         <h3 id="Networks Protocols">Networks Protocols</h3>
-	<head><h2><u><strong>¿What are Networks Protocols?</head></h2></u></strong>
+	<head><h2><u><strong>¿What are Networks Protocols?</head></u></strong></h2>
 	<p>A <strong>Network Protocol</strong> is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design.</p>
 	<p>There are some types of network portocols:</p>
-	<head><u><strong>SSL</head></u></strong>
+	<head><u><strong>SSL</head></strong></u>
 	<p><strong>SSL</strong> stands for Secure Sockets Layer and, in short, it's the standard technology for keeping an internet connection secure and safeguarding any sensitive data that is being sent between two systems, preventing criminals from reading and modifying any information transferred, including potential personal details. The two systems can be a server and a client (for example, a shopping website and browser) or server to server (for example, an application with personal identifiable information or with payroll information).</p>
 	<p>It does this by making sure that any data transferred between users and sites, or between two systems remain impossible to read. It uses encryption algorithms to scramble data in transit, preventing hackers from reading it as it is sent over the connection. This information could be anything sensitive or personal which can include credit card numbers and other financial information, names and addresses.</p>
-	<head><u><strong>HTTPS</head></u></strong>
+	<head><u><strong>HTTPS</head></strong></u>
         <p>Hypertext transfer protocol secure<strong>(HTTPS)</strong> is the secure version of HTTP, which is the primary protocol used to send data between a web browser and a website. HTTPS is encrypted in order to increase security of data transfer. This is particularly important when users transmit sensitive data, such as by logging into a bank account, email service, or health insurance provider.</p>
         <p>Any website, especially those that require login credentials, should use HTTPS. In modern web browsers such as Chrome, websites that do not use HTTPS are marked differently than those that are.</p>
-        <head><u><strong>IPv6</head></u></strong>
+        <head><u><strong>IPv6</head></strong></u>
         <p>Internet Protocol version 6<strong>(IPv6)</strong> is the most recent version of the Internet Protocol (IP), the communications protocol that provides an identification and location system for computers on networks and routes traffic across the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the long-anticipated problem of IPv4 address exhaustion.</p>
         <img src="https://images-na.ssl-images-amazon.com/images/I/61-ZMEEJM2L.jpg" width="400" height="400">
 
         <h3 id="Digital Certificates and Certificate Authorities">Digital Certificates and Certificate Authorities</h3>
-        <head><h2><u><strong>¿What are Digital Certificates and Certificate Authorities?</head></h2></u></strong>
+        <head><h2><u><strong>¿What are Digital Certificates and Certificate Authorities?</head></u></strong></h2>
         <p><strong>Digital certificates</strong> are issued by trusted parties, called <strong>certificate authorities</strong>, to verify the identity of an entity, such as a client or server.</p>
         <p>The digital certificate serves two purposes: it verifies the owner's identity and it makes the owner's public key available. It is issued with an expiration date, after which it is no longer guaranteed by the certificate authority (CA).</p>
         <p>To obtain a digital certificate, you send a request to the CA of your choice, such as Verisign, or RSA. The request includes your distinguished name, your public key, and your signature. A distinguished name (DN) is a unique identifier for each user or host for which you are applying for a certificate. The CA checks your signature using your public key and performs some level of verification of your identity (this varies with different CAs). After verification, the CA sends you a signed digital certificate that contains your distinguished name, your public key, the CA's distinguished name, and the signature of the certificate authority. You store this signed certificate in your key database.</p>
       
-        <head><h3><u><strong>Absolute Software</head></h3></u></strong>
+        <head><h3><u><strong>Absolute Software</head></u></strong></h3>
         <p>Here you have the location of this place which is one of the most strong enterprises in this sector</p>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2188.379831617815!2d-123.12243187148367!3d49.28706696692047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867181774fda27%3A0xb625bc17ce05f9db!2sAbsolute%20Software!5e0!3m2!1ses!2ses!4v1618555908836!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </html>
